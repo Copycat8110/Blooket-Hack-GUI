@@ -15,12 +15,12 @@ Message me on discord at CopyCat#8110 for help
 
 ## Features:
 - Botting
--- Adds customly names bots to games
--- Up to 60 for free game, 1000 for premium games
+- - Adds customly names bots to games
+- - Up to 60 for free game, 1000 for premium games
 - Kicking
--- GUI to kick players by name
--- Mass Kick
+- - GUI to kick players by name
+- - Mass Kick
 - More to come
 - Answer Finder
--- Automatically finds the correct answer for the question
--- Must use chromewebdriver
+- - Automatically finds the correct answer for the question
+- - Must use chromewebdriver
