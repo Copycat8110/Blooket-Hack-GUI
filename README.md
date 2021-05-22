@@ -20,7 +20,7 @@ Message me on discord at CopyCat#8110 for help
 - Kicking
 - - GUI to kick players by name
 - - Mass Kick
-- More to come
 - Answer Finder
 - - Automatically finds the correct answer for the question
 - - Must use chromewebdriver
+- More to come
